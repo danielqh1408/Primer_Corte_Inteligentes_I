@@ -13,7 +13,8 @@
 | Nombre Completo | Correo Electrónico | Rol / Usuario GitHub |
 | :--- | :--- | :--- |
 | **Daniel Quintero Hurtado** | danielqh321@gmail.com | [@danielqh1408](https://github.com/danielqh1408) |
-| **Juan David Ocampo González** | jdocampo@ucaldas.edu.co | [@JuanGonzalezx](https://github.com/JuanGonzalezx) |
+| **Juan David Ocampo González** | juan.ocampo38402
+@ucaldas.edu.co | [@JuanGonzalezx](https://github.com/JuanGonzalezx) |
 
 ---
 
